@@ -2,7 +2,7 @@
   "name": "vidhyansh",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/purvadugge2/vidhyansh/issues"
   },
-  "homepage": "https://github.com/purvadugge2/vidhyansh#readme"
+  "homepage": "https://github.com/purvadugge2/vidhyansh#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
